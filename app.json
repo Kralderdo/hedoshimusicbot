@@ -50,6 +50,6 @@
         "pyrogram"
     ],
     "name": "Hedoshi Music Bot",
-    "repository": "https://gitlab.com/frknkrc44/hedoshimusicbot",
+    "repository": "https://gitlab.com/oruspular/hedoshimusicbot",
     "stack": "container"
 }
